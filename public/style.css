@@ -1,4 +1,11 @@
+h2{
+    background-color: #3B1E54;
+    color: white;
+    padding: 10px;
+}
+
 .chat{
+    width: 400px;
     background-color: #3B1E54;
     color: white;
     padding-left: 10px;
